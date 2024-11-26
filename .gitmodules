@@ -1,0 +1,3 @@
+[submodule "src/content/blog/Workouts"]
+	path = src/content/blog/Workouts
+	url = git@github.com:MarcusGasberg/Workouts.git
