@@ -2,7 +2,7 @@
 title: 'Ascending RC, squat clean, and RC'
 description: 'Ascending RC, squat clean'
 pubDate: 'Nov 23 2024'
-heroImage: '/blog-placeholder-2.jpg'
+heroImage: '/marcgasberg/blog-placeholder-2.jpg'
 ---
 
 # 15 min AMRAP

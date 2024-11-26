@@ -2,7 +2,7 @@
 title: 'Snatch, bbjom push ups, v-ups'
 description: 'Snatch, bbjom push ups, v-ups'
 pubDate: 'Aug 30 2023'
-heroImage: '/blog-placeholder-3.jpg'
+heroImage: '/marcgasberg/blog-placeholder-3.jpg'
 ---
 A) Complete for time
 12-9-6-3 

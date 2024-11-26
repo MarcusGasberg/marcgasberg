@@ -2,7 +2,7 @@
 title: 'My Personal Records'
 description: 'My Personal Records'
 pubDate: 'Aug 30 2023'
-heroImage: '/blog-placeholder-5.jpg'
+heroImage: '/marcgasberg/blog-placeholder-5.jpg'
 ---
 #pr
 # 1 rep max

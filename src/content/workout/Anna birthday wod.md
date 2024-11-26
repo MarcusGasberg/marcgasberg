@@ -2,7 +2,7 @@
 title: 'Annas birthday wod'
 description: 'Annas birthday wod'
 pubDate: 'Jan 29 2023'
-heroImage: '/blog-placeholder-2.jpg'
+heroImage: '/marcgasberg/blog-placeholder-2.jpg'
 ---
 #wod #birthday 
 # Buy in 1997m row

@@ -2,7 +2,7 @@
 title: 'Morning Workout'
 description: 'Morning Workout'
 pubDate: 'Aug 30 2023'
-heroImage: '/blog-placeholder-4.jpg'
+heroImage: '/marcgasberg/blog-placeholder-4.jpg'
 ---
 6 sets: 5 Bench, 115 
 10/10 Pallof Press 

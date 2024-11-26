@@ -2,7 +2,7 @@
 title: 'EMOM 40 Body building'
 description: 'EMOM 40 Body building'
 pubDate: 'Aug 30 2023'
-heroImage: '/blog-placeholder-2.jpg'
+heroImage: '/marcgasberg/blog-placeholder-2.jpg'
 ---
 MIN 1 - 12 DB CLEAN AND PRESS
 MIN 2- 12 CAL SKI 

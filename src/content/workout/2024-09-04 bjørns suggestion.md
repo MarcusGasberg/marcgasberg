@@ -2,7 +2,7 @@
 title: 'Bike, WB, RMU'
 description: 'Bike, WB, RMU'
 pubDate: 'Sep 04 2024'
-heroImage: '/blog-placeholder-4.jpg'
+heroImage: '/marcgasberg/blog-placeholder-4.jpg'
 ---
 # Strength 
 ## EMOM12 

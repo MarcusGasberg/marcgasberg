@@ -2,7 +2,7 @@
 title: 'Team wod amrap16, 2x amrap 8'
 description: 'Team wod amrap16, 2x amrap 8'
 pubDate: 'Aug 30 2023'
-heroImage: '/blog-placeholder-4.jpg'
+heroImage: '/marcgasberg/blog-placeholder-4.jpg'
 ---
 #teamwod
 AMRAP 18: Share anyhow

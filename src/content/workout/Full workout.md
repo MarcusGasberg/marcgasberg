@@ -2,7 +2,7 @@
 title: 'Full Workout gymnasitcs, engine, and accessory'
 description: 'Full Workout gymnasitcs, engine, and accessory'
 pubDate: 'Aug 30 2023'
-heroImage: '/blog-placeholder-2.jpg'
+heroImage: '/marcgasberg/blog-placeholder-2.jpg'
 ---
 ## Gymmastics, Strength and Capacity work, typical "bottle neck" exercises
 ### 4 sets of: (Elite) 

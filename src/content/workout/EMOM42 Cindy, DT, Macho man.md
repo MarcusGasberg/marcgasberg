@@ -2,7 +2,7 @@
 title: 'EMOM40 cindy, dt, macho man'
 description: 'EMOM40 cindy, dt, macho man'
 pubDate: 'Aug 30 2023'
-heroImage: '/blog-placeholder-5.jpg'
+heroImage: '/marcgasberg/blog-placeholder-5.jpg'
 ---
 # EMOM40
 1. 1 round of [[Cindy]] 

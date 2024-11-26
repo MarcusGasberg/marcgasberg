@@ -2,7 +2,7 @@
 title: '4 RFT with RMU'
 description: '4 RFT with RMU'
 pubDate: 'May 26 2024'
-heroImage: '/blog-placeholder-4.jpg'
+heroImage: '/marcgasberg/blog-placeholder-4.jpg'
 ---
 # Strength 
 5 x 10 Front Squats 

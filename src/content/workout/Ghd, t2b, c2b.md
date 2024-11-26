@@ -2,7 +2,7 @@
 title: '3RFT GHD, T2B, C2B'
 description: '3RFT GHD, T2B, C2B'
 pubDate: 'Aug 30 2023'
-heroImage: '/blog-placeholder-4.jpg'
+heroImage: '/marcgasberg/blog-placeholder-4.jpg'
 ---
 3 Rounds for time: 
 30 cal Bike erg 

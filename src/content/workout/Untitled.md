@@ -2,7 +2,7 @@
 title: '3 x amrap10'
 description: '3 x amrap10'
 pubDate: 'Aug 30 2023'
-heroImage: '/blog-placeholder-4.jpg'
+heroImage: '/marcgasberg/blog-placeholder-4.jpg'
 ---
 10 min AMRAP:
 10/7 cal Echo bike 

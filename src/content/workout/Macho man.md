@@ -2,7 +2,7 @@
 title: 'Macho Man'
 description: 'Macho Man'
 pubDate: 'Aug 30 2023'
-heroImage: '/blog-placeholder-4.jpg'
+heroImage: '/marcgasberg/blog-placeholder-4.jpg'
 ---
 # Emom
 3 power cleans 90kg

@@ -2,7 +2,7 @@
 title: 'Back and Forth'
 description: 'Gymnastics work out going back and forth across the floor'
 pubDate: 'March 26 2024'
-heroImage: '/blog-placeholder-2.jpg'
+heroImage: '/marcgasberg/blog-placeholder-2.jpg'
 ---
 # Strength
 5 x 10 front squats 80kg

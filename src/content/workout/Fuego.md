@@ -2,7 +2,7 @@
 title: 'Fuego'
 description: 'Fuego'
 pubDate: 'Aug 30 2023'
-heroImage: '/blog-placeholder-3.jpg'
+heroImage: '/marcgasberg/blog-placeholder-3.jpg'
 ---
 Complete 11 Rounds for time
 9 Power Cleans (115)

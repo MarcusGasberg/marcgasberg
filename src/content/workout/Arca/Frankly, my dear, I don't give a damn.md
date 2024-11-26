@@ -2,7 +2,7 @@
 title: 'Frankly, my dear, I dont give a damn'
 description: 'Frankly, my dear, I dont give a damn'
 pubDate: 'Aug 30 2023'
-heroImage: '/blog-placeholder-3.jpg'
+heroImage: '/marcgasberg/blog-placeholder-3.jpg'
 ---
 ## 3 RFT 
 

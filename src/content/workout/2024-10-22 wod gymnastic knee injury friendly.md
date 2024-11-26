@@ -2,7 +2,7 @@
 title: 'EMOM24 rmu, t2b, hsw, c2b'
 description: 'DB snatch, wall balls, pull ups, hspu'
 pubDate: 'Oct 22 2024'
-heroImage: '/blog-placeholder-2.jpg'
+heroImage: '/marcgasberg/blog-placeholder-2.jpg'
 ---
 # Strength 
 5 x 12 inc. Db BP + max fliers

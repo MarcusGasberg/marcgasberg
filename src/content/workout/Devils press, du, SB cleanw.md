@@ -2,7 +2,7 @@
 title: 'Devils press, du, and cleans'
 description: 'Devils press, du, and cleans'
 pubDate: 'Aug 30 2023'
-heroImage: '/blog-placeholder-3.jpg'
+heroImage: '/marcgasberg/blog-placeholder-3.jpg'
 ---
 75 DU 
 20 Devils press

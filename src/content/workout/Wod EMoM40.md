@@ -2,7 +2,7 @@
 title: 'EMOM40 bike, hsw, crossovers, ghd, c2b'
 description: 'DB snatch, wall balls, pull ups, hspu'
 pubDate: 'Aug 30 2023'
-heroImage: '/blog-placeholder-4.jpg'
+heroImage: '/marcgasberg/blog-placeholder-4.jpg'
 ---
 # Emom40
 1: 12/15 cal bike erg 

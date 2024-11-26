@@ -2,7 +2,7 @@
 title: 'Pyramids'
 description: 'Pyramids'
 pubDate: 'Aug 30 2023'
-heroImage: '/blog-placeholder-4.jpg'
+heroImage: '/marcgasberg/blog-placeholder-4.jpg'
 ---
 ## E5mom 30
  1. 10a-20b-30c-20b-10a

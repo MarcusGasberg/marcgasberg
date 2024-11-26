@@ -2,7 +2,7 @@
 title: '3 x EMOM12'
 description: '3 x EMOM12'
 pubDate: 'Nov 06 2024'
-heroImage: '/blog-placeholder-3.jpg'
+heroImage: '/marcgasberg/blog-placeholder-3.jpg'
 ---
 # EMOM12
 Odd) 8-10 pull ups + max bike erg

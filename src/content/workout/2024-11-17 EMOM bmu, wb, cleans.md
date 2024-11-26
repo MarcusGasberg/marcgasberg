@@ -2,7 +2,7 @@
 title: 'E2MOM40 bmu'
 description: 'E2MOM40 bmu'
 pubDate: 'Nov 17 2024'
-heroImage: '/blog-placeholder-2.jpg'
+heroImage: '/marcgasberg/blog-placeholder-2.jpg'
 ---
 #emom #godwod
 # Strength 

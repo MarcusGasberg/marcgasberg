@@ -2,7 +2,7 @@
 title: 'Teamwod with rmu, cleans, burrpes, and row'
 description: 'Teamwod with rmu, cleans, burrpes, and row'
 pubDate: 'Aug 30 2023'
-heroImage: '/blog-placeholder-4.jpg'
+heroImage: '/marcgasberg/blog-placeholder-4.jpg'
 ---
 #teamwod 
 A) Power Clean

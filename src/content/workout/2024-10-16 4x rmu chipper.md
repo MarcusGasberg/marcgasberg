@@ -2,7 +2,7 @@
 title: 'RMU Chipper'
 description: 'RMU Chipper'
 pubDate: 'Oct 16 2024'
-heroImage: '/blog-placeholder-2.jpg'
+heroImage: '/marcgasberg/blog-placeholder-2.jpg'
 ---
 # Strength 
 5 x 5 back squats @130kg

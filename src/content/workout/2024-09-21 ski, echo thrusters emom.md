@@ -2,7 +2,7 @@
 title: '30 min AMRAP'
 description: 'DB snatch, wall balls, pull ups, hspu'
 pubDate: 'Aug 30 2023'
-heroImage: '/blog-placeholder-3.jpg'
+heroImage: '/marcgasberg/blog-placeholder-3.jpg'
 ---
 Strength 
 6 x 5 weighted pull ups @ 16kg

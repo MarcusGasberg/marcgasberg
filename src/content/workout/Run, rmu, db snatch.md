@@ -2,7 +2,7 @@
 title: 'Run, db, rmu, ww'
 description: 'Run, db, rmu, ww'
 pubDate: 'Aug 30 2023'
-heroImage: '/blog-placeholder-2.jpg'
+heroImage: '/marcgasberg/blog-placeholder-2.jpg'
 ---
 20 min AMRAP 
 2500 meter Run 

@@ -2,7 +2,7 @@
 title: 'Gymnastics emoms'
 description: 'DB snatch, wall balls, pull ups, hspu'
 pubDate: 'Aug 30 2023'
-heroImage: '/blog-placeholder-5.jpg'
+heroImage: '/marcgasberg/blog-placeholder-5.jpg'
 ---
 # Emom4
 7 cal echo

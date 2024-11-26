@@ -11,5 +11,6 @@ import tailwind from '@astrojs/tailwind';
 // https://astro.build/config
 export default defineConfig({
     site: 'https://marcusgasberg.github.io',
+		base: 'marcgasberg',
     integrations: [mdx(), sitemap(), svelte(), tailwind()],
 });

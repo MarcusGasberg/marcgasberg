@@ -2,7 +2,7 @@
 title: '20RFT man makers'
 description: '20RFT man makers'
 pubDate: 'Oct 14 2024'
-heroImage: '/blog-placeholder-4.jpg'
+heroImage: '/marcgasberg/blog-placeholder-4.jpg'
 ---
 # EMOM12 
 Odd: 8-10 dips

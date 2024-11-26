@@ -2,7 +2,7 @@
 title: 'DU, HSW, and LLRC'
 description: 'DU, HSW, and LLRC'
 pubDate: 'Sep 16 2024'
-heroImage: '/blog-placeholder-5.jpg'
+heroImage: '/marcgasberg/blog-placeholder-5.jpg'
 ---
 ## E1.5MOM12 
 Odd: 8/8 Bulgarian split squats 

@@ -2,7 +2,7 @@
 title: 'Strength Emoms'
 description: 'Strength Emoms'
 pubDate: 'Aug 30 2023'
-heroImage: '/blog-placeholder-2.jpg'
+heroImage: '/marcgasberg/blog-placeholder-2.jpg'
 ---
 14 min EmoM *Rest 2 bt. Rounds 
 Ski-12 cals 

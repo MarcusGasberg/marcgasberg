@@ -2,7 +2,7 @@
 title: 'Du, sb cleans, burpees, and GHD'
 description: 'Du, sb cleans, burpees, and GHD'
 pubDate: 'Aug 30 2023'
-heroImage: '/blog-placeholder-3.jpg'
+heroImage: '/marcgasberg/blog-placeholder-3.jpg'
 ---
 100 double unders
 20 sandbag cleans @70kg

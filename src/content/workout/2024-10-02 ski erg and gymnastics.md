@@ -2,7 +2,7 @@
 title: '3 x 6 x E2MOM Gymnastics'
 description: '3 x 6 x E2MOM Gymnastics'
 pubDate: 'Oct 02 2024'
-heroImage: '/blog-placeholder-3.jpg'
+heroImage: '/marcgasberg/blog-placeholder-3.jpg'
 ---
 # 6 x E2MOM
 3 rmu

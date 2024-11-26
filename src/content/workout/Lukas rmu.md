@@ -2,7 +2,7 @@
 title: 'RMU, SHSPU, db snatch'
 description: 'DB snatch, wall balls, pull ups, hspu'
 pubDate: 'Aug 30 2023'
-heroImage: '/blog-placeholder-3.jpg'
+heroImage: '/marcgasberg/blog-placeholder-3.jpg'
 ---
 # AMRAP 16 
 4 RMU

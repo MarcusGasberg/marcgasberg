@@ -2,7 +2,7 @@
 title: '20 min Teamwod AMRAP w. RMU'
 description: '20 min Teamwod AMRAP w. RMU'
 pubDate: 'Sep 06 2024'
-heroImage: '/blog-placeholder-3.jpg'
+heroImage: '/marcgasberg/blog-placeholder-3.jpg'
 ---
 
 # Strength 

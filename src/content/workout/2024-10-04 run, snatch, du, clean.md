@@ -2,7 +2,7 @@
 title: '6 RFT run, snatch, and clean'
 description: '6 RFT run, snatch, and clean'
 pubDate: 'Oct 04 2024'
-heroImage: '/blog-placeholder-2.jpg'
+heroImage: '/marcgasberg/blog-placeholder-2.jpg'
 ---
 # 5 RFR 
 5 BS @120kg

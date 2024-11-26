@@ -2,7 +2,7 @@
 title: 'Run and ski'
 description: 'Run and ski'
 pubDate: 'Aug 30 2023'
-heroImage: '/blog-placeholder-3.jpg'
+heroImage: '/marcgasberg/blog-placeholder-3.jpg'
 ---
 # 4x6 min on /2 min off 
 800m run 

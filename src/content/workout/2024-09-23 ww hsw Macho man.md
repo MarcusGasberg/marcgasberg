@@ -2,7 +2,7 @@
 title: 'WW, hsw, and macho man'
 description: 'WW, hsw, and macho man'
 pubDate: 'Sep 23 2024'
-heroImage: '/blog-placeholder-4.jpg'
+heroImage: '/marcgasberg/blog-placeholder-4.jpg'
 ---
 Strength 
 5 x 3 pc @ 80kg

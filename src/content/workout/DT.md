@@ -2,7 +2,7 @@
 title: 'DT'
 description: 'DT'
 pubDate: 'Aug 30 2023'
-heroImage: '/blog-placeholder-4.jpg'
+heroImage: '/marcgasberg/blog-placeholder-4.jpg'
 ---
 # 5 rft
 12 deadlift 70kg

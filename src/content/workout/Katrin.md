@@ -2,7 +2,7 @@
 title: '4 sets of squat cleans, hspu, and row'
 description: '4 sets of squat cleans, hspu, and row'
 pubDate: 'Aug 30 2023'
-heroImage: '/blog-placeholder-5.jpg'
+heroImage: '/marcgasberg/blog-placeholder-5.jpg'
 ---
 4 sets: 
 10 Squat Cleans, 155/105

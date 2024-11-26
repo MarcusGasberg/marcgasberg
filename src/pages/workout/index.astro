@@ -93,7 +93,7 @@ const workouts = (await getCollection('workout')).sort(
 					{
 						workouts.map((workout) => (
 							<li>
-								<a href={`/workout/${workout.slug}/`}>
+						<a href={`/marcgasberg/workout/${workout.slug}/`}>
 									<img width={720} height={360} src={workout.data.heroImage} alt="" />
 									<h4 class="title">{workout.data.title}</h4>
 									<p class="date">
